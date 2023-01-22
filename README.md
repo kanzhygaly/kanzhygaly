@@ -7,12 +7,10 @@
 
 - 💬 Ask me about **Java, Spring, ReactJS, Python**
 
-- 📫 How to reach me **kanzhygaly@gmail.com**
-
 <p align="left"> 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/yerakh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yerakh" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/yerakh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="yerakh" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/922563/yerlan-akhmetov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="yerakh" height="30" width="40" /></a>
 <a href="https://fb.com/akhmetov.yerlan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akhmetov.yerlan" height="30" width="40" /></a>
 <a href="https://medium.com/@yerakh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@yerakh" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/yerakh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="yerakh" height="30" width="40" /></a>
